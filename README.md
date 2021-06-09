@@ -1,4 +1,4 @@
-### <p align='center' >Hi there, I'm Katie Fugate <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+### <p align='center' ><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Katie Fugate </p>
 
 &nbsp;  
 
