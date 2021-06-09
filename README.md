@@ -1,6 +1,6 @@
 ### Hi there, I'm Katie Fugate 👋
 
-[<img> src='https://image.flaticon.com/icons/png/512/174/174857.png'](https://www.linkedin.com/in/katie-fugate/)
+[](https://www.linkedin.com/in/katie-fugate/)
 
 <!--
 **katiefugate/katiefugate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
