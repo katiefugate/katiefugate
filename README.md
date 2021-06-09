@@ -1,5 +1,8 @@
 ### Hi there, I'm Katie Fugate 👋
 
+
+
+Would love to connect!
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/katie-fugate/)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/yahoo.svg" />](mailto:katiiierochelle@yahoo.com)
 
