@@ -2,7 +2,7 @@
 
 🧰 
 
-<img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /> <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/react.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/html5.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/css3.svg" />
+<img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /> <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/html5.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/css3.svg" />
 
 💬 
 
