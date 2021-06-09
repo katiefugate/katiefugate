@@ -14,7 +14,8 @@ Hello! I’m Katie! I am a Web Developer 👩‍💻, with a passion for problem
 <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
 
 
-![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=katiefugate&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katiefugate&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **katiefugate/katiefugate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
