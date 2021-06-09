@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I’m Katie! I am a Web Developer 👩‍💻, with a passion for problem solving 🧩, and learning new things 📖!
+Hello! I’m Katie! I am a Web Developer 👩‍💻, with a passion for problem solving 🧩, and learning new things 📚!
 
 ## 💬 How to reach me
 
