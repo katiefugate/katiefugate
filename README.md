@@ -1,22 +1,33 @@
-### Hi there, I'm Katie Fugate <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### <p align='center' >Hi there, I'm Katie Fugate <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
-## About Me
+&nbsp;  
 
-Hello! I’m Katie! I am a Web Developer 👩‍💻, with a passion for problem solving 🧩, and learning new things 📚!
+## <p align='center'>About Me</p>
 
-## 💬 How to reach me
+<p align='center'>Hello! I’m Katie! I am a Web Developer 👩‍💻, with a passion for problem solving 🧩, and learning new things 📚!</p>
+&nbsp;  
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/katie-fugate/)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/yahoo.svg" />](mailto:katiiierochelle@yahoo.com)
+## <p align='center'>💬 How to reach me </p>
+<p align='center'>
+  <a href='https://www.linkedin.com/in/katie-fugate/'>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />
+  </a>
+  <a href='mailto:katiiierochelle@yahoo.com'>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/yahoo.svg" />
+  </a>
+ </p>
+ &nbsp;  
 
-## 🧰 Languages and tools
-
-<img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katiefugate&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+##  <p align='center'>🧰 Languages and tools </p>
+<p align='center'>
+<img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /> <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" /> </p>
 
 
+<p align='center'>
+  <a align='center' href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiefugate&layout=compact" />
+  </a>
+</p>
 <!--
 **katiefugate/katiefugate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
