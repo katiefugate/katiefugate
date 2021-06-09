@@ -4,7 +4,7 @@
 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/nodedotjs.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/react.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/html5.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/css3.svg" />
 
-  Would love to connect!
+💬 
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/katie-fugate/)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/yahoo.svg" />](mailto:katiiierochelle@yahoo.com)
