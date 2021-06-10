@@ -10,12 +10,14 @@
 ## <p align='center'>💬 How to reach me </p>
 <p align='center'>
   <a href='https://www.linkedin.com/in/katie-fugate/'>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />
+    <img height="32" width="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
   </a>
   <a href='mailto:katiiierochelle@yahoo.com'>
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/yahoo.svg" />
+    <img height="32" width="32" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" />
   </a>
  </p>
+ 
+ <p align='center'><a href='https://drive.google.com/file/d/1FaQaaR2PlA_ITLF8cooqOcP_IfxUwkI6/view?usp=sharing'>Resume</a></p>
  &nbsp;  
  
  ## <p align='center'>Live Projects</p>
