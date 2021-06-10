@@ -32,10 +32,10 @@
 
 <p align='center'>
   <a align='center' href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiefugate&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiefugate&theme=dracula&layout=compact" />
   </a>
     <a align='center' href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height='165rem' src="https://github-readme-stats.vercel.app/api?username=katiefugate&hide=stars,contribs" />
+    <img align="center" height='165rem' src="https://github-readme-stats.vercel.app/api?username=katiefugate&theme=dracula&hide=stars,contribs" />
   </a>
 </p>
 
