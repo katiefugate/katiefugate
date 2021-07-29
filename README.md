@@ -30,15 +30,6 @@
 <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /> <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" /> </p>
 
 
-<p align='center'>
-  <a align='center' href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katiefugate&theme=dracula&layout=compact" />
-  </a>
-    <a align='center' href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height='165rem' src="https://github-readme-stats.vercel.app/api?username=katiefugate&theme=dracula&hide=stars,contribs" />
-  </a>
-</p>
-
 
 
 
