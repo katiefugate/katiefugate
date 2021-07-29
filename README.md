@@ -23,7 +23,7 @@
  ## <p align='center'>Live Projects</p>
  <p align='center'>🏊‍♀️ <a href="https://swim-oasis.herokuapp.com/#">Oasis</a></p>
  
- <p align='center'>🐱 <a align='center' href='https://katiefugate.github.io/ajax-project/'>CATegories</a></p>
+ <p align='center'>🐱 <a align='center' href='https://katiefugate.github.io/CATegories/'>CATegories</a></p>
 
 ##  <p align='center'>🧰 Languages and tools </p>
 <p align='center'>
