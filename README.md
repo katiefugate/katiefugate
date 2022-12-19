@@ -17,11 +17,10 @@
   </a>
  </p>
  
- <p align='center'><a href='https://drive.google.com/file/d/1FaQaaR2PlA_ITLF8cooqOcP_IfxUwkI6/view?usp=sharing'>Resume</a></p>
+ <p align='center'><a href='https://drive.google.com/file/d/1mvJcUOYTqGCuNKkkFpFHedXk4awCy2IG/view?usp=sharing'>Resume</a></p>
  &nbsp;  
  
  ## <p align='center'>Live Projects</p>
- <p align='center'>🏊‍♀️ <a href="https://swim-oasis.herokuapp.com/#">Oasis</a></p>
  
  <p align='center'>🐱 <a align='center' href='https://katiefugate.github.io/CATegories/'>CATegories</a></p>
 
