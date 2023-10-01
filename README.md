@@ -4,20 +4,26 @@
 
 ## <p align='center'>About Me</p>
 
-<p align='center'>Hello! I’m Katie! I am a Web Developer 👩‍💻, with a passion for problem solving 🧩, and learning new things 📚!</p>
+Hi there! My name is Katie, and I am a Software Developer 👩‍💻 with a background as a registered behavior technician. I recently made the decision to switch to tech and attended LearningFuze Web Development Bootcamp, where I gained valuable knowledge and skills in web development.
+
+With one year of experience at BeSmartee, I have been able to put my newfound skills to use to build web applications to help clients achieve their business goals.
+
+My background as a registered behavior technician has given me a unique perspective on problem-solving and communication. I have found that the skills I developed in my previous career have translated well into my new field. I have a strong attention to detail, an organized approach to problem-solving 🧩, and excellent communication skills.
+
+I am passionate about software development and am always looking to learn and grow in my role 📚. I am excited to explore new technologies and take on new challenges that will help me continue to develop my skills and expertise.
 &nbsp;  
 
 ## <p align='center'>💬 How to reach me </p>
 <p align='center'>
   <a href='https://www.linkedin.com/in/katie-fugate/'>
-    <img height="32" width="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+    <img height="48" width="48" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   <a href='mailto:katiiierochelle@yahoo.com'>
-    <img height="32" width="32" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" />
+    <img height="54" width="54" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" />
   </a>
  </p>
  
- <p align='center'><a href='https://drive.google.com/file/d/1mvJcUOYTqGCuNKkkFpFHedXk4awCy2IG/view?usp=sharing'>Resume</a></p>
+ <p align='center'><a href='https://drive.google.com/file/d/1DGV0lX6Z-2MCEqZEqBAT-6bX3PuB-p4d/view?usp=sharing'>Resume</a></p>
  &nbsp;  
  
  ## <p align='center'>Live Projects</p>
@@ -25,8 +31,11 @@
  <p align='center'>🐱 <a align='center' href='https://katiefugate.github.io/CATegories/'>CATegories</a></p>
 
 ##  <p align='center'>🧰 Languages and tools </p>
-<p align='center'>
-<img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /> <img width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" /> <img height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" /> </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,vue,php,mysql,html,css,react,nodejs" />
+  </a>
+</p>
 
 
 
